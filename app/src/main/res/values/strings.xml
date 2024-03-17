@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Demo do ciclo de vida</string>
+    <string name="hello_world">No Logcat, selecione Debug e procure Entrou</string>
+    <string name="action_settings">Settings</string>
+</resources>
